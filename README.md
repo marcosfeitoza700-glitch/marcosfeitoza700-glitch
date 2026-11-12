@@ -112,3 +112,10 @@ Atualmente estudo C, Python, HTML, CSS e JavaScript, buscando aprimorar meus con
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
 </picture>
+<div align="center">
+  <img src="" width="400">
+</div>
+
+<div align="center">
+  <img src="" width="400">
+</div>
