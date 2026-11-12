@@ -133,5 +133,8 @@ Atualmente estudo C, Python, HTML, CSS e JavaScript, buscando aprimorar meus con
   <code>root@marcos:~$ whoami</code><br>
   <code>Developer in training | Cybersecurity</code>
 </p>
+<p align="center">
+  <img src=".github/matrix.gif" width="100%" />
+</p>
 
 
