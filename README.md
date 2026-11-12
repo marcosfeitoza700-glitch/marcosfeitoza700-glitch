@@ -117,5 +117,5 @@ Atualmente estudo C, Python, HTML, CSS e JavaScript, buscando aprimorar meus con
 </div>
 
 <div align="center">
-  <img src="" width="400">
+  <img src="matrix.gif" width="400">
 </div>
