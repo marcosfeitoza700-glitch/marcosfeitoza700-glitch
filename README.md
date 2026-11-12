@@ -129,12 +129,5 @@ Atualmente estudo C, Python, HTML, CSS e JavaScript, buscando aprimorar meus con
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+System...;Learning+Cybersecurity...;Exploring+Ethical+Hacking...;Building+Projects+with+Code...;Welcome+to+my+Digital+World."/>
 </p>
 
-<p align="center">
-  <code>root@marcos:~$ whoami</code><br>
-  <code>Developer in training | Cybersecurity</code>
-</p>
-<p align="center">
-  <img src=".github/matrix.gif" width="100%" />
-</p>
 
 
