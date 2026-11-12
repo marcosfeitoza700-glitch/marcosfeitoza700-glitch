@@ -115,19 +115,7 @@ Atualmente estudo C, Python, HTML, CSS e JavaScript, buscando aprimorar meus con
 <div align="center">
   <img src="" width="400">
 </div>
-<!-- MATRIX HACKER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
-       width="500">
-</p>
 
-<h3 align="center">
-  <code>ACCESS GRANTED // MARCOS GLITCH</code>
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+System...;Learning+Cybersecurity...;Exploring+Ethical+Hacking...;Building+Projects+with+Code...;Welcome+to+my+Digital+World."/>
-</p>
 
 <!-- MATRIX HACKER -->
 <p align="center">
