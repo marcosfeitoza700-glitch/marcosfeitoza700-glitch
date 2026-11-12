@@ -14,7 +14,7 @@ Atualmente estudo C, Python, HTML, CSS e JavaScript, buscando aprimorar meus con
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="matrix.gif">
 
 <h3 align="left">Connect with me!</h3>
 
